@@ -28,3 +28,13 @@ Merge
 As it sounds, merge is mixing two commits or work into one work. In git language, two or more parent commints, branching into one. 
 To use merge, simply select (checkout** will go over soon) one commit, and type command "git merge OTHER-COMMIT-NAME", where OTHER-COMMIT-NAME is the other commit you want to merge your currently selected commit.
 Example: If you want to make chocolate milk, either select coco or milk, in this case lets do milk and simly do "git merge coco" and now you have chocolate milk, which has branches (parent commits) from coco and milk commits.   
+
+Checkout
+Checkout in git is what 'Select' is for everything else. Basically, if you checkout a commit, that means you have selected that commit or currently working on that commit. 
+To use checkout, type command "git checkout NAME"; add the NAME of the commit wish to select or checkout. There are other shortcut commands that can be performed with checkout, which can be introduced at later level.
+Example: from our previous example of chocolate milk, if you want to add coco in to the milk rather then milk in to coco, do "git checkout coco". Now you have coco in your hand, or its selected, and you can do "git merge milk" because you already have selected coco and just need to tell it what to merge it with.
+
+Push
+Push is normal computer language is uploading or publishing. Since we already talk about cloning and remote repository for sharing work, Push does the uploading your work from your local repository to remote repository so others can access your updated commit or work.
+To use push, simply use command "git push". 
+Example: When you have local word file, no one in remote site has access to it. However, when you upload it on some cloud system like google drive, others with access or your self from remote location can access. This process of uploading a local file is what push does. 
