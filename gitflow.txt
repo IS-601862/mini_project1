@@ -19,3 +19,12 @@ Branches are basically pointers showing what is involved in your current work, o
 To branch, the command is "git brnach NAME-OF-BRANCH". Include what you want to name the branch instead of "NAME-OF-BRANCH".
 Example: If a food item such as Cake has multiple steps, branches simply shows what have been done before or what work was related to get to point where you are not. For example, before putting cake in oven, you added eggs, flour, and coco; so each item is a commit and there would be arrow showing step by step whats added, which is branching.
 
+Commit
+Commit is basically the work done in git. Any work you do in git is known as git commit. It is stored in the repository. 
+to commit, simply use the command "git commit" and then any additional instruction for work. 
+Example: any work you do, can be sensed by others. Git commit is simply for repository to know you did the work so it can store it, which other can see.
+
+Merge 
+As it sounds, merge is mixing two commits or work into one work. In git language, two or more parent commints, branching into one. 
+To use merge, simply select (checkout** will go over soon) one commit, and type command "git merge OTHER-COMMIT-NAME", where OTHER-COMMIT-NAME is the other commit you want to merge your currently selected commit.
+Example: If you want to make chocolate milk, either select coco or milk, in this case lets do milk and simly do "git merge coco" and now you have chocolate milk, which has branches (parent commits) from coco and milk commits.   
