@@ -337,3 +337,8 @@ Command mode takes the user commands, and the Insert mode is for editing text
 
 You should know the commands to work on your file easily
 Learning to use this editor can benefit you in creating scripts and editing files.
+
+
+### Reference
+
+This tutorial is prepared based on [guru99.](https://www.guru99.com/)

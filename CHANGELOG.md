@@ -1,5 +1,11 @@
 # Change log
 
+## v1.1.0 - Feb. 02, 2020
+
+**Added:**
+- [akmal] - Images used for Linux tutorial
+- [akmal] - Linux basics and VI tutorial
+
 ## v1.0.1 - Feb. 02, 2020
 
 **Added:**
