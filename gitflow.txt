@@ -38,3 +38,14 @@ Push
 Push is normal computer language is uploading or publishing. Since we already talk about cloning and remote repository for sharing work, Push does the uploading your work from your local repository to remote repository so others can access your updated commit or work.
 To use push, simply use command "git push". 
 Example: When you have local word file, no one in remote site has access to it. However, when you upload it on some cloud system like google drive, others with access or your self from remote location can access. This process of uploading a local file is what push does. 
+
+Pull
+If push is uploading, what you think pull means? Exactly! Pull in git is what downloading is in normal computer terms. Pull means to download or retrieve "pushed" files from remote repository to local repository, so you can have access to it on your local repository. There is another command called "fetch", which also does what downloading does, however the main difference between fetch and pull is that, fetch only download files, while pull not only downloads it but also opens and merge (update) with your work so you get start working from the point left off by "pusher".
+To use pull, just use command "git pull". 
+Example: if you are on stage 2 of some process and someone else "pushed" file with level 5, when you use "git pull", the system will download that file and also merge it with your system, so its updated to level 5 so you can work from there and on. 
+
+Remote add / remove / show 
+"git remote add NAME" adds your local repository or storage to remote repository. So it is like uploading a folder online, which also takes all the files or in git language, all the commits in the repository with it. 
+"git remote rm NAME" does exactly opposite of adding, it removes a named repository. However, it does not remove name repository from remote repository, it actually removes the route to that specific repository from your local repository. Confusing right? Well, in simple words, if you download a file and then delete it, you have simply removed it from your computer and not from the internet. Same way, "remote remove" removes route to the named repository from your local repository and not from remote source. 
+"git remote show NAME" shows you the link or route where the repository was retrieved or could be retrieved from. It is basically a website address or route address to specified repository/location. 
+
