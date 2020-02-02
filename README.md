@@ -5,9 +5,13 @@ For this mini-project, you need to find at least one partner to make a team of 2
 
 ### Commit message Examples:
 Feature:  Added definition of the term repository.
+
 Fix: Updated definition of repository
+
 Task: Uploaded an image screenshot for a repository
+
 Project Description
+
 For this project, you need to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.  Your group also needs to have 2-3 (depending on group size) sections about the following topics: 
 
 ## Members
