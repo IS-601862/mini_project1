@@ -1,5 +1,7 @@
 # Mini Project for IS-601862
 
+**Version 1.0.0** - [Change log](CHANGELOG.md)
+
 ## Acceptance criteria
 For this mini-project, you need to find at least one partner to make a team of 2-3 people.  In this group, you need to create a single repository and elect one person to merge pull requests as the team leader. You must have at least 10 substantive commits per group member that are marked "feature".  Any fixes to "features" must be marked as fixes and do not count.  Commits for creating files or renaming files or other non-feature work should be named "task".
 
