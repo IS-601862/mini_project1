@@ -1,5 +1,7 @@
 # Mini Project for IS-601862
 
+![group image](./images/betogether.jpg)
+
 **Version 1.0.1** - [Change log](CHANGELOG.md)
 
 ## Acceptance criteria
