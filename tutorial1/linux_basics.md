@@ -25,7 +25,8 @@ This root directory can be considered as the start of the file system, and it fu
 
 A general tree file system on your UNIX may look like this.
 
-![linux tree](/images/linuxtree.png)
+
+![linux tree](/images/linuxtree.PNG)
 
 
 ### Present Working Directory
@@ -35,7 +36,9 @@ The directory that you are currently browsing is called the Present working dire
 pwd
 ```
 
+
 ![pwd and home](/images/pwd.png)
+
 
 pwd command stands for **print working directory**
 
@@ -218,10 +221,6 @@ You can also create more than one directory at a time.
     mkdir dir1 dir3 dir4
 
 
-
-
-
-
 ### Tips & Tricks
 
 * In Linux terminal if you mistyped the command and you want to correct it or you want to execute the command that you typed before you can use **UP and DOWN arrow buttons** on your keyboard to browse the history of your command in current session.
@@ -264,6 +263,7 @@ This mode is for inserting text in the file.
 You can switch to the Insert mode from the command mode  by pressing 'i' on the keyboard
 
 ![vi insert mode](/images/viinsertmode.png)
+
 Once you are in Insert mode, any key would be taken as an input for the file on which you are currently working.
 
 To return to the command mode and save the changes you have made you need to press the Esc key
