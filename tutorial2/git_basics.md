@@ -35,13 +35,19 @@ If a food item such as Cake has multiple steps, branches simply shows what have 
 
 ## Commit
 Commit is basically the work done in git. Any work you do in git is known as git commit. It is stored in the repository. 
-to commit, simply use the command "git commit" and then any additional instruction for work. 
+to commit, simply use the command 
+
+    git commit -m "Put your additional instructions here"
+
 ### Example:
 any work you do, can be sensed by others. Git commit is simply for repository to know you did the work so it can store it, which other can see.
 
 ## Merge 
 As it sounds, merge is mixing two commits or work into one work. In git language, two or more parent commints, branching into one. 
 To use merge, simply select (checkout** will go over soon) one commit, and type command **"git merge OTHER-COMMIT-NAME"**, where OTHER-COMMIT-NAME is the other commit you want to merge your currently selected commit.
+
+    git merge "Other Commit Name to merge with" 
+
 ### Example: 
 If you want to make chocolate milk, either select coco or milk, in this case lets do milk and simly do "git merge coco" and now you have chocolate milk, which has branches (parent commits) from coco and milk commits.   
 
@@ -78,7 +84,10 @@ When you have local word file, no one in remote site has access to it. However, 
 
 ## Pull
 If push is uploading, what you think pull means? Exactly! Pull in git is what downloading is in normal computer terms. Pull means to download or retrieve "pushed" files from remote repository to local repository, so you can have access to it on your local repository. There is another command called "fetch", which also does what downloading does, however the main difference between fetch and pull is that, fetch only download files, while pull not only downloads it but also opens and merge (update) with your work so you get start working from the point left off by "pusher".
-To use pull, just use command "git pull". 
+To use pull, just use command 
+
+    git pull 
+    
 Example: if you are on stage 2 of some process and someone else "pushed" file with level 5, when you use "git pull", the system will download that file and also merge it with your system, so its updated to level 5 so you can work from there and on. 
 
 ## Remote add / remove / show 
