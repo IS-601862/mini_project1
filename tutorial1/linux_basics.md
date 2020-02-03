@@ -36,7 +36,9 @@ The directory that you are currently browsing is called the Present working dire
 pwd
 ```
 
+
 ![pwd and home](/images/pwd.png)
+
 
 pwd command stands for **print working directory**
 
