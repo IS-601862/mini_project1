@@ -25,7 +25,8 @@ This root directory can be considered as the start of the file system, and it fu
 
 A general tree file system on your UNIX may look like this.
 
-![linux tree](/images/linuxtree.png)
+
+![linux tree](/images/linuxtree.PNG)
 
 
 ### Present Working Directory
