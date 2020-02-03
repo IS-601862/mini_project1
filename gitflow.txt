@@ -49,3 +49,13 @@ Remote add / remove / show
 "git remote rm NAME" does exactly opposite of adding, it removes a named repository. However, it does not remove name repository from remote repository, it actually removes the route to that specific repository from your local repository. Confusing right? Well, in simple words, if you download a file and then delete it, you have simply removed it from your computer and not from the internet. Same way, "remote remove" removes route to the named repository from your local repository and not from remote source. 
 "git remote show NAME" shows you the link or route where the repository was retrieved or could be retrieved from. It is basically a website address or route address to specified repository/location. 
 
+Status
+Word it-self says what it does; the Status commands gives you the current state of repository or directory you are working on. It shows you the changes applied and the chages that you worked on, but have not been applied. 
+To use this command, simple type "git status".
+Example: If you are working on your local repository for some work that is being shared on remote repository and you added some new information, when you do "git stats" it will tell that you have made changes however not applied to remote repository and it will advise you to execute commands such as (push or add .).
+
+Master Branch
+Master Branch in git is not some special breanch but the intial brach that you started working on. Many of the time because it is the initial file, it is used as the main executive branch and other branch is created for others to work on and add in to master branch. It is called master branch because it is simply the defualt name given by git.
+Example: If you start drawring a stick figure, whichever point or body part you start with becomes master, while everything else you are attaching. It doesn't have to be the main part such as head or middle body; you can start with legs, but becuase you are starting with it and expanding from there, it is by default called master branch. 
+
+  
