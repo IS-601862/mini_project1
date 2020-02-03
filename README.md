@@ -1,6 +1,7 @@
 # Mini Project for IS-601862
 
-This project is the result of collaboration of NJIT students to provide basic Tutorials on Linux, Git and Github. You can find the clickable links to each tutorial in the Contents section of this page.
+This project is the result of collaboration of NJIT [students](https://github.com/IS-601862/mini_project1/blob/master/README.md#contents) to provide basic Tutorials on [Linux](./tutorial1/linux_basics.md), [Git](./tutorial2/git_basics.md) and [Github](./tutorial3/git_collaborations.md). You can find the clickable links to each tutorial in the [Contents](https://github.com/IS-601862/mini_project1/blob/master/README.md#contents) section of this page.
+
 
 ![group image](/images/betogether.jpg)
 
