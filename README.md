@@ -1,9 +1,12 @@
 # Mini Project for IS-601862
-starting project 
 
-![group image](./images/betogether.jpg)
+This project is the result of collaboration of NJIT students to provide basic Tutorials on Linux, Git and Github. You can find the clickable links to each tutorial in the Contents section of this page.
 
-**Version 1.1.0** - [Change log](CHANGELOG.md)
+![group image](/images/betogether.jpg)
+
+
+## Releases
+**Latest Version 1.3.0** - View Changelog [here](CHANGELOG.md)
 
 ----
 ## Acceptance criteria
@@ -30,9 +33,9 @@ Collaborators of the repository:
 
 ## Contents
 
-* [Linux basics and VI editor tutorials](./tutorial1/linux_basics.md)
-* [Git basics and gitFlow tutorials](./tutorial2/git_basics.md)
-* [Setting up Git and collaboration with git](./tutorial3/git_collaborations.md)
+* [Linux basics and VI editor tutorials by Akmal](./tutorial1/linux_basics.md)
+* [Git basics and gitFlow tutorials by Dhruv](./tutorial2/git_basics.md)
+* [Setting up Git and collaboration with git by Amanda](./tutorial3/git_collaborations.md)
 
 
 ## Lincese & copyright
