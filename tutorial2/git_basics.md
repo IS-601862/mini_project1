@@ -16,7 +16,7 @@ To use this command simply type "git clone" and it will make copy of your local 
 ### Example:
 When you upload your music file from computer to either cloud or your phone device, you are uploading a copy of your file. It is not realtime file it-self, it is copy, so once you upload the file and then make change to it in your local computer it will not change **"clone"** file in remote, becuase it is not actual file it-self but its copy. 
 
-## Frok
+## Fork
 
 Fork is similar to Clone, however it is to test or experiment on remote repository (github) rather then local, where peopel can share and edit files to collaborate.
 To do fork, you use the git clone command with your github link, which allows you to share your clone or in this case, fork on remote repository rather then your local. 
