@@ -341,4 +341,4 @@ Learning to use this editor can benefit you in creating scripts and editing file
 
 ### Reference
 
-This tutorial is prepared based on [guru99.](https://www.guru99.com/)
+1. Linux tutorials from [guru99.com](https://www.guru99.com/)
