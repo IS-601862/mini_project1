@@ -1,5 +1,21 @@
 # Change log
 
+## v1.3.0 - Feb. 02, 2020
+
+**Added:**
+- [amanda] - git collaborations tutorials page is added
+**Updated:**
+- [akmal] - udpated readme, changelog
+
+
+## v1.2.0 - Feb. 02, 2020
+
+**Added:**
+- [dhuv] - git basics tutorials page is added
+**Fixed:**
+- [akmal] - image formats in Linux tutorial
+
+
 ## v1.1.0 - Feb. 02, 2020
 
 **Added:**
@@ -11,8 +27,9 @@
 **Added:**
 - [akmal] - Change log
 - [akmal] - License
-- [akmal] - New directory names
 - [akmal] - data directory for images and other reference data
+**Updated:**
+- [akmal] - New directory names
 
 ## v1.0.0 - Feb. 01, 2020
 
